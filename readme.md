@@ -25,4 +25,5 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=radical)
 
 ## 🌟 Connect with Me
-- [talfig8@gmail.com](mailto:talfig8@gmail.com)
+- [Email](mailto:talfig8@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/Tal Figenblat)
