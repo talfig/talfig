@@ -12,11 +12,13 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 - **Machine Learning:** Foundational concepts and techniques with hands-on experience in TensorFlow, Scikit-Learn, and PyTorch
 
 ## 🚀 Projects
-- **<h2>[Stellar Classification](https://github.com/talfig/Stellar-Classification)</h2>**  
-  Developed a stellar classification model using ML methods such as KNN, SVM, and Perceptron, achieving high accuracy in image-based stellar identification.
-
-- **<h2>[Sign Language Recognition](https://github.com/talfig/Sign-Language)</h2>**  
-  Engineered a sign language recognition system using CNN architecture and DL methods, accurately translating video inputs into defined sign language sentences.
+| Title | Description | Stars | Language |
+|-------|-------------|-------|----------|
+| [Sign-Language](https://github.com/talfig/Sign-Language) | A project that uses CNN architecture and DL methods to identify a sentence spoken in a defined sign language from a video. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Sign-Language?style=social) | ![Python](https://img.shields.io/badge/-Python-blue) |
+| [Merging-Heap](https://github.com/talfig/Merging-Heap) | Merging heap implementation - Introduction to Algorithms. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Merging-Heap?style=social) | ![Java](https://img.shields.io/badge/-Java-brown) |
+| [Set-Data-Structure](https://github.com/talfig/Set-Data-Structure) | Data structure implementation for mathematical set operations in C. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Set-Data-Structure?style=social) | ![C](https://img.shields.io/badge/-C-gray) |
+| [Stellar-Classification](https://github.com/talfig/Stellar-Classification) | A project that examines different ML methods to identify a stellar from a given image. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Stellar-Classification?style=social) | ![Python](https://img.shields.io/badge/-Python-blue) |
+| [Assembler](https://github.com/talfig/Assembler) | It's a comprehensive assembler program for a specific assembly language, written in C. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Assembler?style=social) | ![C](https://img.shields.io/badge/-C-gray) |
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=radical)
