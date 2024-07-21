@@ -4,12 +4,12 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 ## 🎓 Education
 - **The Open University**  
   **B.Sc. Computer Science**  
-  2023-2026 (Graduation)  
+  2023-2026 (Graduation)
   2nd-year student with a GPA of 4.0
 
 ## 🛠️ Skills and Abilities
-- **Programming Languages:** C/C++, Python, Java, with basic experience in C# and SQL
-- **Machine Learning:** Foundational concepts and techniques with hands-on experience in TensorFlow, Scikit-Learn, and PyTorch
+- **Programming Languages:** C/C++, Python, Java, with basic experience in C# and SQL.
+- **Machine Learning:** Foundational concepts and techniques with hands-on experience in TensorFlow, Scikit-Learn, and PyTorch.
 
 ## 🚀 Projects
 | Title | Description | Stars | Language |
