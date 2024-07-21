@@ -13,11 +13,11 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 - **Machine Learning:** Foundational concepts and techniques with hands-on experience in TensorFlow, Scikit-Learn, and PyTorch
 
 ## 🚀 Projects
-- **<h2>[Stellar Classification](https://github.com/yourusername/stellar-classification)</h2>**  
+- **<h2>[Stellar Classification](https://github.com/talfig/Stellar-Classification)</h2>**  
   Developed a stellar classification model using ML methods such as KNN, SVM, and Perceptron, achieving high accuracy in image-based stellar identification.
   
-- **<h2>[Sign Language Recognition](https://github.com/yourusername/sign-language-recognition)</h2>**  
+- **<h2>[Sign Language Recognition](https://github.com/talfig/Sign-Language)</h2>**  
   Engineered a sign language recognition system using CNN architecture and DL methods, accurately translating video inputs into defined sign language sentences.
 
 ## 🌟 Connect with Me
-- [Email](mailto:talfig8@gmail.com)
+- [talfig8@gmail.com](mailto:talfig8@gmail.com)
