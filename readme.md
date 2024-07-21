@@ -12,8 +12,8 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 - **Machine Learning:** Foundational concepts and techniques with hands-on experience in TensorFlow, Scikit-Learn, and PyTorch.
 
 ## 🚀 Projects
-|   Title   | Description | Stars | Language |
-|-----------|-------------|-------|----------|
+| Title | Description | Stars | Language |
+|-------|-------------|-------|----------|
 | [Sign-Language](https://github.com/talfig/Sign-Language) | A project that uses CNN architecture and DL methods to identify a sentence spoken in a defined sign language from a video. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Sign-Language?style=social) | ![Python](https://img.shields.io/badge/-Python-blue) |
 | [Merging-Heap](https://github.com/talfig/Merging-Heap) | Merging heap implementation - Introduction to Algorithms. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Merging-Heap?style=social) | ![Java](https://img.shields.io/badge/-Java-brown) |
 | [Set-Data-Structure](https://github.com/talfig/Set-Data-Structure) | Data structure implementation for mathematical set operations in C. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Set-Data-Structure?style=social) | ![C](https://img.shields.io/badge/-C-gray) |
