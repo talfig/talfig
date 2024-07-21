@@ -3,10 +3,10 @@
 I'm a 17-year-old enthusiast with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
 
 ## 🎓 Education
-- **The Open University of Israel**  
+- **The Open University**  
   **B.Sc. Computer Science**  
   2023-2026 (Graduation)  
-  2nd-year student with a GPA of 100
+  2nd-year student with a GPA of 4.0
 
 ## 🛠️ Skills and Abilities
 - **Programming Languages:** C/C++, Python, Java, with basic experience in C# and SQL
@@ -20,6 +20,4 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
   Engineered a sign language recognition system using CNN architecture and DL methods, accurately translating video inputs into defined sign language sentences.
 
 ## 🌟 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Personal Website](https://yourwebsite.com)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:talfig8@gmail.com)
