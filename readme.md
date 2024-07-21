@@ -1,5 +1,4 @@
 # 👋 About Me
-
 I'm a 17-year-old enthusiast with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
 
 ## 🎓 Education
@@ -18,6 +17,10 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
   
 - **<h2>[Sign Language Recognition](https://github.com/talfig/Sign-Language)</h2>**  
   Engineered a sign language recognition system using CNN architecture and DL methods, accurately translating video inputs into defined sign language sentences.
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ## 🌟 Connect with Me
 - [talfig8@gmail.com](mailto:talfig8@gmail.com)
