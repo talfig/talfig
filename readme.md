@@ -1,11 +1,20 @@
-👋 Hello! I'm Tal
-I'm a 17-year-old aspiring developer with a keen interest in AI and machine learning. I'm looking for opportunities where I can engage in development and research, apply and expand my current knowledge, and acquire new skills.
+👋 About Me
+I'm a 17-year-old enthusiast with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
 
-🎯 My Goals:
-Engage in Development and Research: I am eager to work on projects that challenge my problem-solving abilities and allow me to contribute to innovative solutions.
-Apply and Expand Knowledge: I aim to apply what I've learned in AI and machine learning to real-world problems while continuously expanding my skill set.
-Acquire New Skills: I'm dedicated to lifelong learning and excited to acquire new technical skills and knowledge in the ever-evolving field of technology.
+🎓 Education
+The Open University of Israel
+B.Sc. Computer Science
+2023-2026 (Graduation)
+2nd-year student with a GPA of 100
+🛠️ Skills and Abilities
+Programming Languages: C/C++, Python, Java, with basic experience in C# and SQL
+Machine Learning: Foundational concepts and techniques with hands-on experience in TensorFlow, Scikit-Learn, and PyTorch
+🚀 Projects
+Stellar Classification
+Developed a stellar classification model using ML methods such as KNN, SVM, and Perceptron, achieving high accuracy in image-based stellar identification.
 
-🔍 Interests:
-Artificial Intelligence (AI): Exploring the capabilities of AI to solve complex problems.
-Machine Learning: Building and improving models to gain insights from data.
+Sign Language Recognition
+Engineered a sign language recognition system using CNN architecture and DL methods, accurately translating video inputs into defined sign language sentences.
+
+🌟 Connect with Me
+talfig8@gmail.com
