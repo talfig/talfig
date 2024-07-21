@@ -26,4 +26,4 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 
 ## 🌟 Connect with Me
 - [Email](mailto:talfig8@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/tal-figenblat-1b1a4331a)
+- [LinkedIn](https://www.linkedin.com/in/talfig)
