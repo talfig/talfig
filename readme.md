@@ -52,6 +52,6 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=radical)
