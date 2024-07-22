@@ -40,5 +40,19 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 | [Assembler](https://github.com/talfig/Assembler) | It's a comprehensive assembler program for a specific assembly language, written in C. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Assembler?style=social) | ![C](https://img.shields.io/badge/-C-gray) |
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=radical" alt="Your GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=radical" alt="Top Languages">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talfig&theme=radical" alt="GitHub Profile Summary">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talfig&theme=radical" alt="Top Languages by Repo">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=talfig&theme=radical" alt="Top Languages by Commit">
+</p>
+
+<p align="center">
+  <b>Total Repos:</b> 52 | <b>Stars:</b> 1.1K | <b>Forks:</b> 178 | <b>Contributions:</b> 901 | <b>Issues:</b> 90 | <b>Closed Issues:</b> 78
+</p>
