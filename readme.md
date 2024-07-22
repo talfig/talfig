@@ -40,8 +40,5 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 | [Assembler](https://github.com/talfig/Assembler) | It's a comprehensive assembler program for a specific assembly language, written in C. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Assembler?style=social) | ![C](https://img.shields.io/badge/-C-gray) |
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=radical" alt="Your GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=radical" alt="Top Languages">
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=radical)
