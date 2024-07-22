@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #0000FF; text-shadow: 0 0 5px #FF00FF, 0 0 10px #FF00FF, 0 0 15px #FF00FF;">
+<h1 align="center" style="color: #0000FF; text-shadow: 0 0 5px #0000FF, 0 0 10px #0000FF, 0 0 15px #0000FF;">
   Tal Figenblat
 </h1>
 
