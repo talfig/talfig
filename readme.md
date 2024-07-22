@@ -39,15 +39,11 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 | [Stellar-Classification](https://github.com/talfig/Stellar-Classification) | A project that examines different ML methods to identify a stellar from a given image. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Stellar-Classification?style=social) | ![Python](https://img.shields.io/badge/-Python-blue) |
 | [Assembler](https://github.com/talfig/Assembler) | It's a comprehensive assembler program for a specific assembly language, written in C. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Assembler?style=social) | ![C](https://img.shields.io/badge/-C-gray) |
 
-# talfig's GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub stars](https://img.shields.io/github/stars/talfig/your-repo?style=for-the-badge)
-![GitHub commits](https://img.shields.io/github/commit-activity/y/talfig/your-repo?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/talfig/your-repo?style=for-the-badge)
-
-## Most Used Languages
+![GitHub stars](https://img.shields.io/github/stars/talfig?style=for-the-badge)
+![GitHub commits](https://img.shields.io/github/commit-activity/y/talfig?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/talfig?style=for-the-badge)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=dark)
-
-## Detailed GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=dark)
 
