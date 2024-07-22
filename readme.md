@@ -39,15 +39,15 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 | [Stellar-Classification](https://github.com/talfig/Stellar-Classification) | A project that examines different ML methods to identify a stellar from a given image. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Stellar-Classification?style=social) | ![Python](https://img.shields.io/badge/-Python-blue) |
 | [Assembler](https://github.com/talfig/Assembler) | It's a comprehensive assembler program for a specific assembly language, written in C. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Assembler?style=social) | ![C](https://img.shields.io/badge/-C-gray) |
 
-## 📊 GitHub Stats
+# talfig's GitHub Stats
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talfig&theme=radical" alt="GitHub Profile Summary">
-</p>
+![GitHub stars](https://img.shields.io/github/stars/talfig/your-repo?style=for-the-badge)
+![GitHub commits](https://img.shields.io/github/commit-activity/y/talfig/your-repo?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/talfig/your-repo?style=for-the-badge)
 
-<p align="left">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=radical" alt="Your GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=radical" alt="Top Languages"></td>
-  </tr>
-</p>
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=dark)
+
+## Detailed GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=dark)
+
