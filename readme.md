@@ -2,8 +2,6 @@
   Tal Figenblat
 </h1>
 
----
-
 <p align="center" style="color: #00FF00; text-shadow: 2px 2px 8px #00FF00;">
   Researcher | Student | Software Developer
   <br>
@@ -18,8 +16,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
----
 
 # 👋 About Me
 I'm a 17-year-old enthusiast with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
