@@ -1,8 +1,8 @@
-<h1 align="center" style="color: #0000FF; text-shadow: 0 0 5px #0000FF, 0 0 10px #0000FF, 0 0 15px #0000FF;">
+<h1 align="center">
   Tal Figenblat
 </h1>
 
-<p align="center" style="color: #00FF00; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 15px #00FF00;">
+<p align="center">
   <i>Researcher | Student | Software Developer</i>
   <br>
   <i>AI | Machine Learning | Development</i>
