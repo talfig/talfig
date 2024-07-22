@@ -3,7 +3,7 @@
 **AI | Machine Learning | Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/talfig)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:talfig8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:talfig8@gmail.com)
 
 ---
 
