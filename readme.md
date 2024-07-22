@@ -1,35 +1,15 @@
-<h1 align="center">
-  <a href="https://yourwebsite.com">
-    <img src="https://via.placeholder.com/150" alt="Your Name" style="border-radius:50%">
-  </a>
-  <br>
-  Tal Figiel
-</h1>
-
 <p align="center">
-  <i>Enthusiast | Student | Developer</i>
+  <i>Researcher | Student | Software Developer</i>
   <br>
   <i>AI | Machine Learning | Development</i>
 </p>
 
 <p align="center">
-  <a href="https://yourwebsite.com" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Website-orange?style=flat&logo=firefox" alt="Website">
-  </a>
-  <a href="link-to-your-CV.pdf" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader" alt="CV">
-  </a>
   <a href="https://www.linkedin.com/in/talfig" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:talfig8@gmail.com" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email">
-  </a>
-  <a href="link-to-your-scholar-profile" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=googlescholar" alt="Scholar">
-  </a>
-  <a href="https://pypi.org/user/yourprofile">
-    <img src="https://img.shields.io/badge/PyPi-3776AB?style=flat&logo=pypi" alt="PyPI">
+    <img src="https://img.shields.io/badge/Email-white?style=flat&logo=gmail" alt="Email">
   </a>
 </p>
 
