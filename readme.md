@@ -1,13 +1,9 @@
 # Your Name
-**Enthusiast | Student | Developer**  
+**Researcher | Student | Software Developer**  
 **AI | Machine Learning | Development**
 
-[![Website](https://img.shields.io/badge/Website-gkos.dev-orange?style=flat&logo=firefox)](https://yourwebsite.com)
-[![CV](https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader)](link-to-your-CV.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:youremail@gmail.com)
-[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=googlescholar)](link-to-your-scholar-profile)
-[![PyPI](https://img.shields.io/badge/PyPi-3776AB?style=flat&logo=pypi)](https://pypi.org/user/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/talfig)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:talfig8@gmail.com)
 
 ---
 
@@ -36,7 +32,3 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=radical)
-
-## 🌟 Connect with Me
-- [Email](mailto:talfig8@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/talfig)
