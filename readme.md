@@ -41,28 +41,13 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 
 ## 📊 GitHub Stats
 
-### talfig
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talfig&theme=radical" alt="GitHub Profile Summary">
+</p>
 
-![Contributions](https://img.shields.io/badge/Contributions-188%20in%202024-blue?style=for-the-badge)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-5-blue?style=for-the-badge)
-![Joined GitHub](https://img.shields.io/badge/Joined%20GitHub-23%20days%20ago-brightgreen?style=for-the-badge)
-![Email](https://img.shields.io/badge/Email-talfig8@gmail.com-lightgrey?style=for-the-badge)
-
-![Contribution Graph](https://ghchart.rshah.org/talfig)
-
----
-
-### talfig's GitHub Stats
-
-![GitHub stars](https://img.shields.io/github/stars/talfig?style=for-the-badge)
-![GitHub commits](https://img.shields.io/github/commit-activity/y/talfig?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/talfig?style=for-the-badge)
-
----
-
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=dark)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=dark)
-
+<p align="left">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=radical" alt="Your GitHub Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=radical" alt="Top Languages"></td>
+  </tr>
+</p>
