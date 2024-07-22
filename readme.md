@@ -1,8 +1,8 @@
-<h1 align="center" style="color: #FF4500; text-shadow: 2px 2px 8px #FF4500;">
+<h1 align="center">
   Tal Figenblat
 </h1>
 
-<p align="center" style="color: #00FF00; text-shadow: 2px 2px 8px #00FF00;">
+<p align="center">
   Researcher | Student | Software Developer
   <br>
   AI | Machine Learning | Development
@@ -15,14 +15,6 @@
   <a href="mailto:talfig8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/talfig?v=4" width="150" height="150">
-</p>
-
-<p align="center">
-  <b>Total Repos:</b> 52 | <b>Stars:</b> 1.1K | <b>Forks:</b> 178 | <b>Contributions:</b> 901 | <b>Issues:</b> 90 | <b>Closed Issues:</b> 78
 </p>
 
 # 👋 About Me
