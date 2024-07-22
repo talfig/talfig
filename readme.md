@@ -1,10 +1,39 @@
-# Tal Figenblat
-**Researcher | Student | Software Developer**  
-**AI | Machine Learning | Development**
+<h1 style="text-align: center;">
+  <span style="color: #ff5733; animation: fadeIn 2s;">Tal Figiel</span>
+</h1>
+<p style="text-align: center;">
+  <span style="animation: fadeIn 3s;">Enthusiast | Student | Developer</span>
+  <br>
+  <span style="animation: fadeIn 4s;">AI | Machine Learning | Development</span>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/talfig)
-[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:talfig8@gmail.com)
+<div style="text-align: center;">
+  <a href="https://yourwebsite.com" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Website-gkos.dev-orange?style=flat&logo=firefox" alt="Website">
+  </a>
+  <a href="link-to-your-CV.pdf" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader" alt="CV">
+  </a>
+  <a href="https://www.linkedin.com/in/talfig" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:talfig8@gmail.com" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email">
+  </a>
+  <a href="link-to-your-scholar-profile" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=googlescholar" alt="Scholar">
+  </a>
+  <a href="https://pypi.org/user/yourprofile">
+    <img src="https://img.shields.io/badge/PyPi-3776AB?style=flat&logo=pypi" alt="PyPI">
+  </a>
+</div>
 
+<style>
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
 ---
 
 # 👋 About Me
