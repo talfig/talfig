@@ -1,3 +1,16 @@
+# Your Name
+**Enthusiast | Student | Developer**  
+**AI | Machine Learning | Development**
+
+[![Website](https://img.shields.io/badge/Website-gkos.dev-orange?style=flat&logo=firefox)](https://yourwebsite.com)
+[![CV](https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader)](link-to-your-CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:youremail@gmail.com)
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=googlescholar)](link-to-your-scholar-profile)
+[![PyPI](https://img.shields.io/badge/PyPi-3776AB?style=flat&logo=pypi)](https://pypi.org/user/yourprofile)
+
+---
+
 # 👋 About Me
 I'm a 17-year-old enthusiast with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
 
