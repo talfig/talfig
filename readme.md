@@ -41,17 +41,28 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 
 ## 📊 GitHub Stats
 
-### Total Stars Earned
+### talfig
+
+![Contributions](https://img.shields.io/badge/Contributions-188%20in%202024-blue?style=for-the-badge)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-5-blue?style=for-the-badge)
+![Joined GitHub](https://img.shields.io/badge/Joined%20GitHub-23%20days%20ago-brightgreen?style=for-the-badge)
+![Email](https://img.shields.io/badge/Email-talfig8@gmail.com-lightgrey?style=for-the-badge)
+
+![Contribution Graph](https://ghchart.rshah.org/talfig)
+
+---
+
+### talfig's GitHub Stats
+
 ![GitHub stars](https://img.shields.io/github/stars/talfig?style=for-the-badge)
-
-### Total Commits (2024)
 ![GitHub commits](https://img.shields.io/github/commit-activity/y/talfig?style=for-the-badge)
-
-### Last Commit
 ![GitHub last commit](https://img.shields.io/github/last-commit/talfig?style=for-the-badge)
 
+---
+
 ### Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=dark)
 
-### Detailed GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=dark)
+
