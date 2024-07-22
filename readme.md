@@ -42,15 +42,12 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talfig&theme=radical" alt="GitHub Profile Summary">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=radical" alt="Your GitHub Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=radical" alt="Top Languages">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talfig&theme=radical" alt="GitHub Profile Summary">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talfig&theme=radical" alt="Top Languages by Repo">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=talfig&theme=radical" alt="Top Languages by Commit">
 </p>
 
 <p align="center">
