@@ -1,3 +1,7 @@
+<h1 align="center">
+  Tal Figenblat
+</h1>
+
 <p align="center">
   <i>Researcher | Student | Software Developer</i>
   <br>
