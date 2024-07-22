@@ -49,7 +49,3 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=radical" alt="Top Languages">
   <br>
 </p>
-
-<p align="center">
-  <b>Total Repos:</b> 52 | <b>Stars:</b> 1.1K | <b>Forks:</b> 178 | <b>Contributions:</b> 901 | <b>Issues:</b> 90 | <b>Closed Issues:</b> 78
-</p>
