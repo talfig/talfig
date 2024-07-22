@@ -1,20 +1,58 @@
-<h1 align="center">
-  Tal Figenblat
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            text-align: center;
+            animation: appear 2s forwards;
+        }
+        @keyframes appear {
+            from {
+                opacity: 0;
+                transform: translateX(-100%);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+        .badges a {
+            margin: 0 10px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
 
-<p align="center">
-  <i>Researcher | Student | Software Developer</i>
-  <i>AI | Machine Learning | Development</i>
-</p>
+<div class="container">
+    <h1>Tal Figenblat</h1>
+    <p><i>Researcher | Student | Software Developer</i></p>
+    <p><i>AI | Machine Learning | Development</i></p>
+    <div class="badges">
+        <a href="https://www.linkedin.com/in/talfig">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
+        </a>
+        <a href="mailto:talfig8@gmail.com">
+            <img src="https://img.shields.io/badge/Email-white?style=flat&logo=gmail" alt="Email">
+        </a>
+    </div>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/talfig">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:talfig8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=flat&logo=gmail" alt="Email">
-  </a>
-</p>
+</body>
+</html>
 
 ---
 
