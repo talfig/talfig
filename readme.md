@@ -1,11 +1,11 @@
 <h1 align="center">
-  <span style="color: #FF4500;">Tal Figenblat</span>
+  Tal Figenblat
 </h1>
 
 <p align="center">
-  <span style="color: #00FF00; font-weight: bold;">Researcher | Student | Software Developer</span>
+  Researcher | Student | Software Developer
   <br>
-  <span style="color: #00FF00; font-weight: bold;">AI | Machine Learning | Development</span>
+  AI | Machine Learning | Development
 </p>
 
 <p align="center">
