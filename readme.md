@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1 align="center" style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF, 0 0 10px #FF00FF, 0 0 15px #FF00FF;">
   Tal Figenblat
 </h1>
 
-<p align="center">
+<p align="center" style="color: #00FF00; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 15px #00FF00;">
   <i>Researcher | Student | Software Developer</i>
   <br>
   <i>AI | Machine Learning | Development</i>
@@ -10,14 +10,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/talfig">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:talfig8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=flat&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
-<hr style="border: 1px solid #FF00FF; margin: 20px 0; box-shadow: 0 0 10px #FF00FF;">
 
 ---
 
