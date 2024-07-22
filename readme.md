@@ -1,15 +1,20 @@
-<h1 style="text-align: center;">
-  <span style="color: #ff5733; animation: fadeIn 2s;">Tal Figiel</span>
-</h1>
-<p style="text-align: center;">
-  <span style="animation: fadeIn 3s;">Enthusiast | Student | Developer</span>
+<h1 align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://via.placeholder.com/150" alt="Your Name" style="border-radius:50%">
+  </a>
   <br>
-  <span style="animation: fadeIn 4s;">AI | Machine Learning | Development</span>
+  Tal Figiel
+</h1>
+
+<p align="center">
+  <i>Enthusiast | Student | Developer</i>
+  <br>
+  <i>AI | Machine Learning | Development</i>
 </p>
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://yourwebsite.com" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Website-gkos.dev-orange?style=flat&logo=firefox" alt="Website">
+    <img src="https://img.shields.io/badge/Website-orange?style=flat&logo=firefox" alt="Website">
   </a>
   <a href="link-to-your-CV.pdf" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader" alt="CV">
@@ -26,15 +31,9 @@
   <a href="https://pypi.org/user/yourprofile">
     <img src="https://img.shields.io/badge/PyPi-3776AB?style=flat&logo=pypi" alt="PyPI">
   </a>
-</div>
+</p>
 
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
-
+---
 
 # 👋 About Me
 I'm a 17-year-old enthusiast with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
