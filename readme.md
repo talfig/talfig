@@ -19,6 +19,21 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
+---
+
+<p align="center">
+  Total Repos: <strong>52</strong> | Stars: <strong>1.1K</strong> | Forks: <strong>178</strong> | Contributions: <strong>901</strong> | Issues: <strong>90</strong> | Closed Issues: <strong>78</strong>
+</p>
+
+
 # 👋 About Me
 I'm a 17-year-old enthusiast with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
 
