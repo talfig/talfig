@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center" style="color: #00FF00; text-shadow: 2px 2px 8px #00FF00;">
-  <i>Researcher | Student | Software Developer</i>
+  Researcher | Student | Software Developer
   <br>
-  <i>AI | Machine Learning | Development</i>
+  AI | Machine Learning | Development
 </p>
 
 <p align="center">
