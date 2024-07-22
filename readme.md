@@ -17,6 +17,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/talfig?v=4" width="150" height="150">
+</p>
+
+<p align="center">
+  <b>Total Repos:</b> 52 | <b>Stars:</b> 1.1K | <b>Forks:</b> 178 | <b>Contributions:</b> 901 | <b>Issues:</b> 90 | <b>Closed Issues:</b> 78
+</p>
+
 # 👋 About Me
 I'm a 17-year-old enthusiast with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
 
