@@ -1,14 +1,14 @@
-<h1 align="center" style="animation: appear 2s forwards;">
+<h1 align="center">
   Tal Figenblat
 </h1>
 
-<p align="center" style="animation: appear 2s forwards;">
+<p align="center">
   <i>Researcher | Student | Software Developer</i>
   <br>
   <i>AI | Machine Learning | Development</i>
 </p>
 
-<p align="center" style="animation: appear 2s forwards;">
+<p align="center">
   <a href="https://www.linkedin.com/in/talfig">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
@@ -17,18 +17,7 @@
   </a>
 </p>
 
-<style>
-@keyframes appear {
-    from {
-        opacity: 0;
-        transform: translateX(-100%);
-    }
-    to {
-        opacity: 1;
-        transform: translateX(0);
-    }
-}
-</style>
+---
 
 # 👋 About Me
 I'm a 17-year-old enthusiast with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
