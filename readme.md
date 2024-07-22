@@ -17,6 +17,8 @@
   </a>
 </p>
 
+<hr style="border: 1px solid #FF00FF; margin: 20px 0; box-shadow: 0 0 10px #FF00FF;">
+
 ---
 
 # 👋 About Me
