@@ -17,8 +17,6 @@
   </a>
 </p>
 
-<hr style="border: 1px solid #ddd; width: 50%; margin: 20px auto;">
-
 # 👋 About Me
 I'm a 17-year-old enthusiast with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
 
