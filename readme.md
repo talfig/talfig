@@ -1,18 +1,18 @@
-<h1 align="center">
-  Tal Figenblat
-</h1>
-
 <p align="center">
-  Researcher | Student | Software Developer
-  <br>
-  AI | Machine Learning | Development
-</p>
+<a href="https://github.com/talfig">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Tal+Figenblat;Researcher+%7C+Student+%7C+Software+Developer;AI+%7C+Machine+Learning+%7C+Development" alt="Typing SVG" />
+</a>
+<br/>
+
+<a href="https://github.com/talfig">
+    <img src="https://github-stats-alpha.vercel.app/api?username=talfig&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/talfig">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:talfig8@gmail.com">
+  <a href="mailto:talfig@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
