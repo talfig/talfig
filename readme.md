@@ -61,7 +61,7 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
         <br>Git
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=c" alt="icon" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=c" alt="icon" width="60" height="40" />
         <br>C
       </td>
       <td align="center" width="96">
@@ -91,7 +91,7 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
         <br>VsCode
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="60" height="40" />
         <br>Vs
       </td>
       <td align="center" width="96">
