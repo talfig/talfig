@@ -32,21 +32,102 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
   2nd-year student with a GPA of 4.0.
 
 ## 🛠️ Skills and Abilities
-<!-- Programming Languages -->
-<a href="#"><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-
-<!-- Machine Learning -->
-<a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></a>
+<div style="display: flex; justify-content: center;">
+  <table style="width: 100%; max-width: 1000px; border-collapse: collapse; table-layout: fixed;">
+    <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
+        <br>C#
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
+        <br>REST
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+          <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=c" alt="icon" width="40" height="40" />
+        <br>C
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" />
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=go" alt="icon" width="40" height="40" />
+        <br>Go
+      </td>
+      <td align="center" width="96">
+          <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="icon" width="40" height="40" />
+        <br>Redis
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+          <img src="https://vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="icon" width="40" height="40" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+          <img src="https://vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="icon" width="40" height="40" />
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="40" height="40" />
+        <br>VsCode
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="40" height="40" />
+        <br>Vs
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=windows" alt="icon" width="40" height="40" />
+        <br>Windows
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="40" height="40" />
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=ubuntu" alt="icon" width="40" height="40" />
+        <br>Ubuntu
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="40" height="40" />
+        <br>IntelliJ
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=clion" alt="icon" width="40" height="40" />
+        <br>CLion
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=pycharm" alt="icon" width="40" height="40" />
+        <br>PyCharm
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="40" height="40" />
+        <br>Postman
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Projects
 | Title | Description | Stars | Language |
