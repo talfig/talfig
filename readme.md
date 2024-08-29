@@ -42,14 +42,14 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
       </td>
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="Java" />
-        <br>Java
+        <br>Java 
       </td>
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
         <br>C#
       </td>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
+          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />
         <br>REST
       </td>
       <td align="center" width="96">
