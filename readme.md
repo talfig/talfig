@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
 <p align="center">
 <a href="https://github.com/talfig">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Tal+Figenblat;Researcher+%7C+Student+%7C+Software+Developer;AI+%7C+Machine+Learning+%7C+Development" alt="Typing SVG" />
@@ -139,3 +141,5 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
     </p>
   </ol>
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
