@@ -45,7 +45,7 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
         <br>Java 
       </td>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="60" height="60" />
         <br>C#
       </td>
       <td align="center" width="96">
