@@ -27,8 +27,20 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
   2nd-year student with a GPA of 4.0.
 
 ## 🛠️ Skills and Abilities
-- **Programming Languages:** C/C++, Python, Java, with basic experience in C# and SQL.
-- **Machine Learning:** Foundational concepts and techniques with hands-on experience in TensorFlow, Scikit-Learn, and PyTorch.
+<!-- Programming Languages -->
+<a href="#"><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+
+<!-- Machine Learning -->
+<a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
 
 ## 🚀 Projects
 | Title | Description | Stars | Language |
