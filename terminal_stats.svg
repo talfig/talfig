@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="terminal" baseProfile="full" viewBox="0 0 500 430" width="550" version="1.1">
+    <defs>
+        <termtosvg:template_settings xmlns:termtosvg="https://github.com/nbedos/termtosvg">
+            <termtosvg:screen_geometry columns="95" rows="21" />
+            <termtosvg:animation type="css" />
+        </termtosvg:template_settings>
+        <style type="text/css" id="generated-style">
+            <![CDATA[#screen {
+                font-family: 'DejaVu Sans Mono', monospace;
+                font-style: normal;
+                font-size: 14px;
+            }
+
+        text {
+            dominant-baseline: text-before-edge;
+            white-space: pre;
+        }
+    
+            :root {
+                --animation-duration: 14558ms;
+            }
+
+            @keyframes roll {
+                0.000%{transform:translateY(0px)}
+3.400%{transform:translateY(-374px)}
+4.767%{transform:translateY(-748px)}
+7.302%{transform:translateY(-1122px)}
+9.933%{transform:translateY(-1496px)}
+12.357%{transform:translateY(-1870px)}
+14.226%{transform:translateY(-2244px)}
+17.578%{transform:translateY(-2618px)}
+21.239%{transform:translateY(-2992px)}
+21.658%{transform:translateY(-3366px)}
+24.605%{transform:translateY(-3740px)}
+27.627%{transform:translateY(-4114px)}
+29.771%{transform:translateY(-4488px)}
+31.529%{transform:translateY(-4862px)}
+34.277%{transform:translateY(-5236px)}
+36.585%{transform:translateY(-5610px)}
+39.607%{transform:translateY(-5984px)}
+41.256%{transform:translateY(-6358px)}
+43.179%{transform:translateY(-6732px)}
+44.333%{transform:translateY(-7106px)}
+47.685%{transform:translateY(-7480px)}
+51.436%{transform:translateY(-7854px)}
+51.889%{transform:translateY(-8228px)}
+59.658%{transform:translateY(-8602px)}
+62.241%{transform:translateY(-8976px)}
+64.885%{transform:translateY(-9350px)}
+67.406%{transform:translateY(-9724px)}
+68.347%{transform:translateY(-10098px)}
+70.985%{transform:translateY(-10472px)}
+77.469%{transform:translateY(-10846px)}
+81.124%{transform:translateY(-11220px)}
+81.536%{transform:translateY(-11594px)}
+85.046%{transform:translateY(-11968px)}
+86.090%{transform:translateY(-12342px)}
+89.442%{transform:translateY(-12716px)}
+90.267%{transform:translateY(-13090px)}
+93.014%{transform:translateY(-13464px)}
+93.131%{transform:translateY(-13838px)}
+100.000%{transform:translateY(-13838px)}
+            }
+
+            #screen_view {
+                animation-duration: 14558ms;
+                animation-iteration-count:infinite;
+                animation-name:roll;
+                animation-timing-function: steps(1,end);
+                animation-fill-mode: forwards;
+            }
+        ]]>
+        </style>
+        <style type="text/css" id="user-style">
+            /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
+               them as needed.
+               gjm8 color theme (source: https://terminal.sexy/) */
+            .foreground {fill: #00FF00}
+            .background {fill: #000000}
+            .color0 {fill: #272822}
+            .color1 {fill: #f92672}
+            .green {fill: #00FF00}
+            .color3 {fill: #f4bf75}
+            .color4 {fill: #66d9ef}
+            .purple {fill: #00FF00}
+            .color6 {fill: #00FF00}
+            .color7 {fill: #f8f8f2}
+            .color8 {fill: #75715e}
+            .color9 {fill: #fd971f}
+            .color10 {fill: #00FF00}
+            .color11 {fill: #49483e}
+            .color12 {fill: #00FF00}
+            .color13 {fill: #f5f4f1}
+            .orange {fill: #00FF00}
+            .color15 {fill: #f9f8f5}
+        </style>
+    </defs>
+    <rect id="terminalui" class="background" width="100%" height="100%" ry="4.5826941" />
+    <circle cx="24" cy="23" r="7" fill="#f92672" />
+    <circle cx="44" cy="23" r="7" fill="#f4bf75" />
+    <circle cx="64" cy="23" r="7" fill="#a6e22e" />
+    <svg id="screen" width="760" height="357" x="23" y="50" viewBox="0 0 760 357" preserveAspectRatio="xMidYMin slice">
+        <rect class="background" height="100%" width="100%" x="0" y="0" />
+        <defs>
+            <g id="g1">
+                <text x="0" textLength="128" font-weight="bold" class="color10">talfig@github</text>
+                <text x="128" textLength="8" class="foreground">:</text>
+                <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
+                <text x="144" textLength="16" class="foreground">$ </text>
+                <text x="160" textLength="8" class="background"></text>
+            </g>
+            <g id="g2">
+                <text x="0" textLength="128" font-weight="bold" class="color10">talfig@github</text>
+                <text x="128" textLength="8" class="foreground">:</text>
+                <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
+                <text x="144" textLength="24" class="foreground">$ w</text>
+                <text x="168" textLength="8" class="background"></text>
+            </g>
+            <g id="g3">
+                <text x="0" textLength="128" font-weight="bold" class="color10">talfig@github</text>
+                <text x="128" textLength="8" class="foreground">:</text>
+                <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
+                <text x="144" textLength="32" class="foreground">$ wh</text>
+                <text x="176" textLength="8" class="background"></text>
+            </g>
+            <g id="g4">
+                <text x="0" textLength="128" font-weight="bold" class="color10">talfig@github</text>
+                <text x="128" textLength="8" class="foreground">:</text>
+                <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
+                <text x="144" textLength="40" class="foreground">$ who</text>
+                <text x="184" textLength="8" class="background"></text>
+            </g>
+            <g id="g5">
+                <text x="0" textLength="128" font-weight="bold" class="color10">talfig@github</text>
+                <text x="128" textLength="8" class="foreground">:</text>
+                <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
+                <text x="144" textLength="48" class="foreground">$ whoa</text>
+                <text x="192" textLength="8" class="background"></text>
+            </g>
+            <g id="g6">
+                <text x="0" textLength="128" font-weight="bold" class="color10">talfig@github</text>
+                <text x="128" textLength="8" class="foreground">:</text>
+                <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
+                <text x="144" textLength="56" class="foreground">$ whoam</text>
+                <text x="200" textLength="8" class="background"></text>
+            </g>
+            <g id="g7">
+                <text x="0" textLength="128" font-weight="bold" class="color10">talfig@github</text>
+                <text x="128" textLength="8" class="foreground">:</text>
+                <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
+                <text x="144" textLength="64" class="foreground">$ whoami</text>
+                <text x="208" textLength="8" class="background"></text>
+            </g>
+            <g id="g8">
+                <text x="0" textLength="128" font-weight="bold" class="color10">talfig@github</text>
+                <text x="128" textLength="8" class="foreground">:</text>
+                <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
+                <text x="144" textLength="64" class="foreground">$ whoami</text>
+                <text x="208" y="16" class="foreground">talfig</text>
+                <text x="208" y="32" class="background"></text>
+            </g>
+        </defs>
+        <g id="screen_view">
+            <use xlink:href="#g1" x="0" y="0" />
+            <use xlink:href="#g2" x="0" y="17" />
+            <use xlink:href="#g3" x="0" y="34" />
+            <use xlink:href="#g4" x="0" y="51" />
+            <use xlink:href="#g5" x="0" y="68" />
+            <use xlink:href="#g6" x="0" y="85" />
+            <use xlink:href="#g7" x="0" y="102" />
+            <use xlink:href="#g8" x="0" y="119" />
+        </g>
+                <g>
+                <use xlink:href="#g8" y="10472" />
+                <use xlink:href="#g10" y="10489" />
+                <use xlink:href="#g21" y="10506" />
+                <use xlink:href="#g22" y="10523" />
+                <use xlink:href="#g23" y="10540" />
+                <use xlink:href="#g24" y="10557" />
+                <use xlink:href="#g25" y="10574" />
+                <use xlink:href="#g26" y="10591" />
+                <use xlink:href="#g27" y="10608" />
+                <use xlink:href="#g28" y="10625" />
+                <use xlink:href="#g29" y="10642" />
+                <use xlink:href="#g30" y="10659" />
+                <use xlink:href="#g31" y="10676" />
+                <use xlink:href="#g32" y="10693" />
+                <use xlink:href="#g33" y="10710" />
+                <use xlink:href="#g34" y="10727" />
+                <rect x="208" y="10744" width="8" height="17" class="foreground" />
+                <use xlink:href="#g40" y="10744" />
+            </g>
+            <g>
+                <use xlink:href="#g8" y="10846" />
+                <use xlink:href="#g10" y="10863" />
+                <use xlink:href="#g21" y="10880" />
+                <use xlink:href="#g22" y="10897" />
+                <use xlink:href="#g23" y="10914" />
+                <use xlink:href="#g24" y="10931" />
+                <use xlink:href="#g25" y="10948" />
+                <use xlink:href="#g26" y="10965" />
+                <use xlink:href="#g27" y="10982" />
+                <use xlink:href="#g28" y="10999" />
+                <use xlink:href="#g29" y="11016" />
+                <use xlink:href="#g30" y="11033" />
+                <use xlink:href="#g31" y="11050" />
+                <use xlink:href="#g32" y="11067" />
+                <use xlink:href="#g33" y="11084" />
+                <use xlink:href="#g34" y="11101" />
+                <rect x="216" y="11118" width="8" height="17" class="foreground" />
+                <use xlink:href="#g41" y="11118" />
+            </g>
+            <g>
+                <use xlink:href="#g8" y="11220" />
+                <use xlink:href="#g10" y="11237" />
+                <use xlink:href="#g21" y="11254" />
+                <use xlink:href="#g22" y="11271" />
+                <use xlink:href="#g23" y="11288" />
+                <use xlink:href="#g24" y="11305" />
+                <use xlink:href="#g25" y="11322" />
+                <use xlink:href="#g26" y="11339" />
+                <use xlink:href="#g27" y="11356" />
+                <use xlink:href="#g28" y="11373" />
+                <use xlink:href="#g29" y="11390" />
+                <use xlink:href="#g30" y="11407" />
+                <use xlink:href="#g31" y="11424" />
+                <use xlink:href="#g32" y="11441" />
+                <use xlink:href="#g33" y="11458" />
+                <use xlink:href="#g34" y="11475" />
+                <rect x="224" y="11492" width="8" height="17" class="foreground" />
+                <use xlink:href="#g42" y="11492" />
+            </g>
+      </svg>
+</svg>
