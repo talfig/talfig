@@ -72,12 +72,12 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
           <img src="https://skillicons.dev/icons?i=go" alt="icon" width="40" height="40" />
         <br>Go
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
           <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="icon" width="40" height="40" />
         <br>Redis
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
           <img src="https://vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="icon" width="40" height="40" />
         <br>TensorFlow
@@ -89,10 +89,6 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="40" height="40" />
         <br>VsCode
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="40" height="40" />
-        <br>Vs
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=windows" alt="icon" width="40" height="40" />
@@ -117,10 +113,6 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=pycharm" alt="icon" width="40" height="40" />
         <br>PyCharm
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="40" height="40" />
-        <br>Postman
       </td>
     </tr>
   </table>
