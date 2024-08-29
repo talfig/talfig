@@ -25,19 +25,20 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftalfig-33048518a%2F&subtitle=@talfig&size=square" alt="talfig">
+      <a href="https://www.linkedin.com/in/talfig/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftalfig%2F&subtitle=@talfig&size=square" alt="talfig">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/talfig" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%talfig&subtitle=%talfig&size=square" alt="talfig">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Ftalfig&subtitle=%2Ftalfig&size=square" alt="talfig">
       </a>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
