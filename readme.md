@@ -19,16 +19,16 @@
 
 <img src="https://github.com/talfig/talfig/blob/main/line-neon.gif" width="100%"> 
 
-# 👋 About Me
+## 👋 About Me
 I'm an enthusiast developer with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
 
-# 🎓 Education
+## 🎓 Education
 - **The Open University**  
   **B.Sc. Computer Science**  
   2023-2025 (Graduation)
   2nd-year student with a GPA of 4.0.
 
-# 🛠️ Skills and Abilities
+## 🛠️ Skills and Abilities
 <div style="display: flex; justify-content: center;">
   <table style="width: 100%; max-width: 1000px; border-collapse: collapse; table-layout: fixed;">
     <tr>
@@ -118,7 +118,7 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
   </table>
 </div>
 
-# 🚀 Projects
+## 🚀 Projects
 | Title | Description | Stars | Language |
 |-------|-------------|-------|----------|
 | [Sign-Language](https://github.com/talfig/Sign-Language) | A project that uses CNN architecture and DL methods to identify a sentence spoken in a defined sign language from a video. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Sign-Language?style=social) | ![Python](https://img.shields.io/badge/-Python-blue) |
