@@ -28,7 +28,7 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
   2023-2025 (Graduation)
   2nd-year student with a GPA of 4.0.
 
-## 🛠️ Skills and Abilities
+# 🛠️ Skills and Abilities
 <div style="display: flex; justify-content: center;">
   <table style="width: 100%; max-width: 1000px; border-collapse: collapse; table-layout: fixed;">
     <tr>
