@@ -31,9 +31,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/talfig" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Ftalfig&subtitle=%2Ftalfig&size=square" alt="talfig">
+    <td colspan="3" align="center">
+      <a href="mailto:talfig8@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=talfig8@gmail.com&size=square" alt="talfig8" style="margin: 10px;">
       </a>
     </td>
   </tr>
