@@ -29,8 +29,6 @@
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftalfig%2F&subtitle=@talfig&size=square" alt="talfig">
       </a>
     </td>
-  </tr>
-  <tr>
     <td colspan="3" align="center">
       <a href="mailto:talfig8@gmail.com" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=talfig8@gmail.com&size=square" alt="talfig8" style="margin: 10px;">
