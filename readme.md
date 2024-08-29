@@ -23,7 +23,7 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
 ## 🎓 Education
 - **The Open University**  
   **B.Sc. Computer Science**  
-  2023-2026 (Graduation)
+  2023-2025 (Graduation)
   2nd-year student with a GPA of 4.0.
 
 ## 🛠️ Skills and Abilities
