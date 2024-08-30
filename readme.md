@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center" >
-  <a href="https://github.com/talfig/talfig">
+  <a href="https://github.com/talfig">
     <img src="https://github.com/talfig/talfig/blob/main/terminal_stats.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
   </a>
 </p>
