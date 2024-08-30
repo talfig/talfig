@@ -6,9 +6,11 @@
 </a>
 <br/>
 
-<a href="https://github.com/talfig">
-    <img src="https://github-stats-alpha.vercel.app/api?username=talfig&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+<p align="center" >
+  <a href="https://github.com/talfig/talfig/blob/main/terminal_stats.svg">
+    <img src="https://github.com/talfig/talfig/blob/main/terminal_stats.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/talfig">
@@ -138,11 +140,6 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
     <p align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=talfig&show_icons=true&theme=radical" alt="Your GitHub Stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talfig&layout=compact&theme=radical" alt="Top Languages">
-    </p>
-    <p align="center" >
-      <a href="https://github.com/talfig/talfig/blob/main/terminal_stats.svg">
-        <img src="https://github.com/talfig/talfig/blob/main/terminal_stats.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
-      </a>
     </p>
   </ol>
 </details>
