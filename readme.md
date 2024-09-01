@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:76D7C4&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <p align="center">
 <a href="https://github.com/talfig">
@@ -144,5 +144,4 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
   </ol>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:76D7C4&height=110&section=footer" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
