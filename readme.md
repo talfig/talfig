@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:00FA9A&height=110&section=header" width="100%">
 
 <p align="center">
 <a href="https://github.com/talfig">
