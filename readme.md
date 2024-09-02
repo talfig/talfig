@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/talfig">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Tal+Figenblat;Researcher+%7C+Student+%7C+Software+Developer;AI+%7C+Machine+Learning+%7C+Development&color=00BFFF&center=true&vCenter=true&glow=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Tal+Figenblat;Researcher+%7C+Student+%7C+Software+Developer;AI+%7C+Machine+Learning+%7C+Data+Science&color=00BFFF&center=true&vCenter=true&glow=true" alt="Typing SVG" />
 </a>
 </p>
 
