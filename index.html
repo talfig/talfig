@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic SVG Data</title>
+    <style>
+        svg {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <!-- Inline SVG or you can use an <object> tag if you prefer -->
+    <object id="svg-object" type="image/svg+xml" data="terminal_stats.svg"></object>
+
+    <script>
+        async function fetchGitHubData() {
+            try {
+                const response = await fetch('https://api.github.com/users/talfig');
+                const data = await response.json();
+
+                // Access the SVG document and update text elements
+                const svgObject = document.getElementById('svg-object');
+                const svgDoc = svgObject.contentDocument;
+
+                // Example data - update according to the actual GitHub API response
+                svgDoc.getElementById('star-count').textContent = data.public_repos; // Replace with actual field
+                svgDoc.getElementById('fork-count').textContent = data.public_gists; // Example field
+                // Update other fields similarly...
+
+            } catch (error) {
+                console.error('Error fetching GitHub data:', error);
+            }
+        }
+
+        // Fetch and update data on page load
+        fetchGitHubData();
+        // Optionally update every 10 minutes
+        setInterval(fetchGitHubData, 10 * 60 * 1000);
+    </script>
+</body>
+</html>
