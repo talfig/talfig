@@ -1,1 +1,34 @@
+name: Update Stars in SVG
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install Requests
+      run: pip install requests
+
+    - name: Run Star Update Script
+      run: python update_stars.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add path/to/your/svgfile.svg
+        git commit -m "Update star count in SVG"
+        git push
 
