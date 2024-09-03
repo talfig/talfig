@@ -10,7 +10,7 @@ repos = response.json()
 total_stars = sum(repo['stargazers_count'] for repo in repos)
 
 # Update the SVG file
-svg_file_path = 'path/to/your/svgfile.svg'
+svg_file_path = 'https://github.com/talfig/talfig/blob/main/terminal_stats.svg'
 
 with open(svg_file_path, 'r') as file:
     svg_content = file.read()
