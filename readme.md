@@ -16,6 +16,9 @@
   <a href="https://www.linkedin.com/in/talfig">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
+  <a href="https://github.com/talfig/talfig">
+    <img src="https://komarev.com/ghpvc/?username=talfig&color=ff6347&style=flat-square" alt="Profile views">
+  </a>
   <a href="mailto:talfig@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
