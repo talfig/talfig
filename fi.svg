@@ -2,10 +2,10 @@
   <defs>
     <linearGradient id="gradient">
       <stop offset="0%" stop-color="#ff0000">
-        <animate attributeName="stop-color" values="#ff0000;#00ff00;#0000ff;#ff0000" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#ff0000;#00ff00;#0000ff;#ff0000" dur="1s" keyTimes="0; 0.33; 0.66; 1" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="#0000ff">
-        <animate attributeName="stop-color" values="#0000ff;#ff0000;#00ff00;#0000ff" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#0000ff;#ff0000;#00ff00;#0000ff" dur="1s" keyTimes="0; 0.33; 0.66; 1" repeatCount="indefinite" />
       </stop>
     </linearGradient>
   </defs>
