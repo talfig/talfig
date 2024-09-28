@@ -11,43 +11,54 @@ base_url = "https://api.github.com"
 
 stats = {}
 
-# Fetch user profile stats
-endpoints = {
-    "stars": f"/search/repositories?q=user:{username}+stars:>0",
-    "forks": f"/search/repositories?q=user:{username}+forks:>0",
-    "commits": f"/search/commits?q=author:{username}",
-    "followers": f"/users/{username}",
-    "pull_requests": f"/search/issues?q=type:pr+author:{username}",
-    "issues": f"/search/issues?q=type:issue+author:{username}",
-    "repos": f"/users/{username}/repos",
-    "gists": f"/users/{username}/gists",
-}
+# Fetch repositories to calculate stars, forks, and commits
+repos_url = f"{base_url}/users/{username}/repos"
+repos_response = requests.get(repos_url, headers=headers)
+repos = repos_response.json()
 
-for stat, endpoint in endpoints.items():
-    url = base_url + endpoint
-    response = requests.get(url, headers=headers)
+# Initialize counts
+total_stars = 0
+total_forks = 0
+total_commits = 0
 
-    # Check if request was successful
-    if response.status_code != 200:
-        print(f"Error fetching {stat}: {response.status_code}, {response.text}")
-        stats[stat] = 0  # Set default value on error
-        continue
+for repo in repos:
+    total_stars += repo.get("stargazers_count", 0)
+    total_forks += repo.get("forks_count", 0)
+    
+    # Fetch commits for each repository
+    commits_url = f"{base_url}/repos/{username}/{repo['name']}/commits"
+    commits_response = requests.get(commits_url, headers=headers)
+    commits = commits_response.json()
+    total_commits += len(commits)
 
-    data = response.json()
+# Fetch followers count
+followers_url = f"{base_url}/users/{username}"
+followers_response = requests.get(followers_url, headers=headers)
+followers = followers_response.json().get("followers", 0)
 
-    # Handle different response structures
-    try:
-        if stat == "followers":
-            stats[stat] = data["followers"]  # Direct access since it's a dict
-        elif stat in ["stars", "forks", "pull_requests", "issues"]:
-            stats[stat] = data.get("total_count", 0)  # Access total_count for search results
-        elif stat == "commits":
-            stats[stat] = len(data.get("items", []))  # Count commits (list of items)
-        elif stat in ["repos", "gists"]:
-            stats[stat] = len(data)  # Count the number of repos or gists
-    except KeyError as e:
-        print(f"KeyError fetching {stat}: {e}")
-        stats[stat] = 0  # Default value if key is missing
+# Fetch pull requests and issues count
+pull_requests_url = f"{base_url}/search/issues?q=type:pr+author:{username}"
+pull_requests_response = requests.get(pull_requests_url, headers=headers)
+total_pull_requests = pull_requests_response.json().get("total_count", 0)
+
+issues_url = f"{base_url}/search/issues?q=type:issue+author:{username}"
+issues_response = requests.get(issues_url, headers=headers)
+total_issues = issues_response.json().get("total_count", 0)
+
+# Fetch gists count
+gists_url = f"{base_url}/users/{username}/gists"
+gists_response = requests.get(gists_url, headers=headers)
+total_gists = len(gists_response.json())
+
+# Store stats
+stats["stars"] = total_stars
+stats["forks"] = total_forks
+stats["commits"] = total_commits
+stats["followers"] = followers
+stats["pull_requests"] = total_pull_requests
+stats["issues"] = total_issues
+stats["repos"] = len(repos)
+stats["gists"] = total_gists
 
 # Copy original file to new file with 'new_' prefix
 original_file = "terminal_stats.svg"
