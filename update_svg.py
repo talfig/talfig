@@ -94,8 +94,20 @@ with open(new_file, "r") as file:
     svg_content = file.read()
 
 # Replace placeholders in SVG with actual stats
-for key in stats.keys():
-    svg_content = svg_content.replace(f"[{key.capitalize()}]", str(stats[key]))
+placeholder_mapping = {
+    "stars": "[Stars]",
+    "forks": "[Forks]",
+    "commits": "[Commits]",
+    "followers": "[Followers]",
+    "pull_requests": "[Pull Requests]",
+    "issues": "[Issues]",
+    "repos": "[Repository]",
+    "gists": "[Gists]",
+    "uptime": "[uptime]"
+}
+
+for key, placeholder in placeholder_mapping.items():
+    svg_content = svg_content.replace(placeholder, str(stats[key]))
 
 # Write updated content to the new file
 with open(new_file, "w") as file:
