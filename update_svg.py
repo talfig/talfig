@@ -25,19 +25,28 @@ endpoints = {
 for stat, endpoint in endpoints.items():
     url = base_url + endpoint
     response = requests.get(url, headers=headers)
+
+    # Check if request was successful
+    if response.status_code != 200:
+        print(f"Error fetching {stat}: {response.status_code}, {response.text}")
+        stats[stat] = 0  # Set default value on error
+        continue
+
     data = response.json()
 
     # Handle different response structures
-    if stat == "followers":
-        stats[stat] = data["followers"]  # Direct access since it's a dict
-    elif stat in ["stars", "forks"]:
-        stats[stat] = data["total_count"]  # Access total_count for search results
-    elif stat == "commits":
-        stats[stat] = len(data.get("items", []))  # Count commits (list of items)
-    elif stat in ["pull_requests", "issues"]:
-        stats[stat] = data["total_count"]  # Access total_count for search results
-    elif stat in ["repos", "gists"]:
-        stats[stat] = len(data)  # Count the number of repos or gists
+    try:
+        if stat == "followers":
+            stats[stat] = data["followers"]  # Direct access since it's a dict
+        elif stat in ["stars", "forks", "pull_requests", "issues"]:
+            stats[stat] = data.get("total_count", 0)  # Access total_count for search results
+        elif stat == "commits":
+            stats[stat] = len(data.get("items", []))  # Count commits (list of items)
+        elif stat in ["repos", "gists"]:
+            stats[stat] = len(data)  # Count the number of repos or gists
+    except KeyError as e:
+        print(f"KeyError fetching {stat}: {e}")
+        stats[stat] = 0  # Default value if key is missing
 
 # Update SVG file
 with open("terminal_stats.svg", "r") as file:
