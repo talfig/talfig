@@ -1,6 +1,7 @@
 import requests
 import shutil
 import os
+from datetime import datetime
 
 # Get GitHub stats
 username = "talfig"
@@ -9,9 +10,7 @@ token = os.getenv("GITHUB_TOKEN")
 headers = {"Authorization": f"token {token}"}
 base_url = "https://api.github.com"
 
-stats = {}
-
-# Fetch repositories to calculate stars, forks, and commits
+# Fetch repositories to calculate stars, forks, commits, and uptime
 repos_url = f"{base_url}/users/{username}/repos"
 repos_response = requests.get(repos_url, headers=headers)
 repos = repos_response.json()
@@ -20,24 +19,28 @@ repos = repos_response.json()
 total_stars = 0
 total_forks = 0
 total_commits = 0
+total_days = 0
+
+# Calculate uptime in days
+creation_dates = []
 
 for repo in repos:
     total_stars += repo.get("stargazers_count", 0)
     total_forks += repo.get("forks_count", 0)
     
-    # Fetch all commits for each repository (with pagination)
+    # Fetch commits for each repository
     commits_url = f"{base_url}/repos/{username}/{repo['name']}/commits"
-    page = 1
-    while True:
-        paginated_commits_url = f"{commits_url}?page={page}&per_page=100"
-        commits_response = requests.get(paginated_commits_url, headers=headers)
-        commits = commits_response.json()
+    commits_response = requests.get(commits_url, headers=headers)
+    commits = commits_response.json()
+    total_commits += len(commits)
+    
+    # Collect creation dates for uptime calculation
+    creation_dates.append(repo['created_at'])
 
-        if not commits or len(commits) == 0:
-            break  # No more commits
-
-        total_commits += len(commits)
-        page += 1
+# Calculate total uptime in days from the earliest repo creation date
+if creation_dates:
+    earliest_creation_date = min([datetime.strptime(date, "%Y-%m-%dT%H:%M:%SZ") for date in creation_dates])
+    total_days = (datetime.utcnow() - earliest_creation_date).days
 
 # Fetch followers count
 followers_url = f"{base_url}/users/{username}"
@@ -59,14 +62,17 @@ gists_response = requests.get(gists_url, headers=headers)
 total_gists = len(gists_response.json())
 
 # Store stats
-stats["stars"] = total_stars
-stats["forks"] = total_forks
-stats["commits"] = total_commits
-stats["followers"] = followers
-stats["pull_requests"] = total_pull_requests
-stats["issues"] = total_issues
-stats["repos"] = len(repos)
-stats["gists"] = total_gists
+stats = {
+    "stars": total_stars,
+    "forks": total_forks,
+    "commits": total_commits,
+    "followers": followers,
+    "pull_requests": total_pull_requests,
+    "issues": total_issues,
+    "repos": len(repos),
+    "gists": total_gists,
+    "uptime": total_days  # Add uptime in days
+}
 
 # Copy original file to new file with 'new_' prefix
 original_file = "terminal_stats.svg"
@@ -86,6 +92,7 @@ svg_content = svg_content.replace("[Pull Requests]", str(stats["pull_requests"])
 svg_content = svg_content.replace("[Issues]", str(stats["issues"]))
 svg_content = svg_content.replace("[Repository]", str(stats["repos"]))
 svg_content = svg_content.replace("[Gists]", str(stats["gists"]))
+svg_content = svg_content.replace("[uptime]", str(stats["uptime"]))  # Replace uptime
 
 # Write updated content to the new file
 with open(new_file, "w") as file:
