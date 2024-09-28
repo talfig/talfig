@@ -94,15 +94,8 @@ with open(new_file, "r") as file:
     svg_content = file.read()
 
 # Replace placeholders in SVG with actual stats
-svg_content = svg_content.replace("[Stars]", str(stats["stars"]))
-svg_content = svg_content.replace("[Forks]", str(stats["forks"]))
-svg_content = svg_content.replace("[Commits]", str(stats["commits"]))
-svg_content = svg_content.replace("[Followers]", str(stats["followers"]))
-svg_content = svg_content.replace("[Pull Requests]", str(stats["pull_requests"]))
-svg_content = svg_content.replace("[Issues]", str(stats["issues"]))
-svg_content = svg_content.replace("[Repository]", str(stats["repos"]))
-svg_content = svg_content.replace("[Gists]", str(stats["gists"]))
-svg_content = svg_content.replace("[uptime]", str(stats["uptime"]))
+for key in stats.keys():
+    svg_content = svg_content.replace(f"[{key.capitalize()}]", str(stats[key]))
 
 # Write updated content to the new file
 with open(new_file, "w") as file:
