@@ -25,11 +25,19 @@ for repo in repos:
     total_stars += repo.get("stargazers_count", 0)
     total_forks += repo.get("forks_count", 0)
     
-    # Fetch commits for each repository
+    # Fetch all commits for each repository (with pagination)
     commits_url = f"{base_url}/repos/{username}/{repo['name']}/commits"
-    commits_response = requests.get(commits_url, headers=headers)
-    commits = commits_response.json()
-    total_commits += len(commits)
+    page = 1
+    while True:
+        paginated_commits_url = f"{commits_url}?page={page}&per_page=100"
+        commits_response = requests.get(paginated_commits_url, headers=headers)
+        commits = commits_response.json()
+
+        if not commits or len(commits) == 0:
+            break  # No more commits
+
+        total_commits += len(commits)
+        page += 1
 
 # Fetch followers count
 followers_url = f"{base_url}/users/{username}"
