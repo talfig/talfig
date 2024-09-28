@@ -92,7 +92,7 @@ svg_content = svg_content.replace("[Pull Requests]", str(stats["pull_requests"])
 svg_content = svg_content.replace("[Issues]", str(stats["issues"]))
 svg_content = svg_content.replace("[Repository]", str(stats["repos"]))
 svg_content = svg_content.replace("[Gists]", str(stats["gists"]))
-svg_content = svg_content.replace("[uptime]", str(stats["uptime"]))  # Replace uptime
+svg_content = svg_content.replace("[uptime]", str(stats["uptime"]))
 
 # Write updated content to the new file
 with open(new_file, "w") as file:
