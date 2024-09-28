@@ -29,29 +29,27 @@ for stat, endpoint in endpoints.items():
 
     # Handle different response structures
     if stat == "followers":
-        stats[stat] = data["followers"]  # Direct access since it's a dict
-    elif stat in ["stars", "forks"]:
-        stats[stat] = data["total_count"]  # Access total_count for search results
+        stats[stat] = data.get("followers", 0)  # Direct access since it's a dict
+    elif stat in ["stars", "forks", "pull_requests", "issues"]:
+        stats[stat] = data.get("total_count", 0)  # Access total_count for search results or default to 0
     elif stat == "commits":
-        stats[stat] = len(data.get("items", []))  # Count commits (list of items)
-    elif stat in ["pull_requests", "issues"]:
-        stats[stat] = data["total_count"]  # Access total_count for search results
+        stats[stat] = len(data.get("items", []))  # Count commits (list of items), default to empty list
     elif stat in ["repos", "gists"]:
-        stats[stat] = len(data)  # Count the number of repos or gists
+        stats[stat] = len(data) if isinstance(data, list) else 0  # Count repos or gists if response is a list
 
 # Update SVG file
 with open("terminal_stats.svg", "r") as file:
     svg_content = file.read()
 
 # Replace placeholders in SVG with actual stats
-svg_content = svg_content.replace("[Stars]", str(stats["stars"]))
-svg_content = svg_content.replace("[Forks]", str(stats["forks"]))
-svg_content = svg_content.replace("[Commits]", str(stats["commits"]))
-svg_content = svg_content.replace("[Followers]", str(stats["followers"]))
-svg_content = svg_content.replace("[Pull Requests]", str(stats["pull_requests"]))
-svg_content = svg_content.replace("[Issues]", str(stats["issues"]))
-svg_content = svg_content.replace("[Repository]", str(stats["repos"]))
-svg_content = svg_content.replace("[Gists]", str(stats["gists"]))
+svg_content = svg_content.replace("[Stars]", str(stats.get("stars", 0)))
+svg_content = svg_content.replace("[Forks]", str(stats.get("forks", 0)))
+svg_content = svg_content.replace("[Commits]", str(stats.get("commits", 0)))
+svg_content = svg_content.replace("[Followers]", str(stats.get("followers", 0)))
+svg_content = svg_content.replace("[Pull Requests]", str(stats.get("pull_requests", 0)))
+svg_content = svg_content.replace("[Issues]", str(stats.get("issues", 0)))
+svg_content = svg_content.replace("[Repository]", str(stats.get("repos", 0)))
+svg_content = svg_content.replace("[Gists]", str(stats.get("gists", 0)))
 
 with open("terminal_stats.svg", "w") as file:
     file.write(svg_content)
