@@ -2,7 +2,7 @@ import requests
 import os
 
 # Get GitHub stats
-username = "YourGitHubUsername"
+username = "talfig"
 token = os.getenv("GITHUB_TOKEN")
 
 headers = {"Authorization": f"token {token}"}
