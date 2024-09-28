@@ -3,7 +3,7 @@ name: Update SVG Stats
 on:
   schedule:
     - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
   update-stats:
