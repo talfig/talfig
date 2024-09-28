@@ -1,7 +1,6 @@
 import requests
 import shutil
 import os
-from datetime import datetime
 
 # Get GitHub stats
 username = "talfig"
@@ -10,7 +9,9 @@ token = os.getenv("GITHUB_TOKEN")
 headers = {"Authorization": f"token {token}"}
 base_url = "https://api.github.com"
 
-# Fetch repositories to calculate stars, forks, commits, and uptime
+stats = {}
+
+# Fetch repositories to calculate stars, forks, and commits
 repos_url = f"{base_url}/users/{username}/repos"
 repos_response = requests.get(repos_url, headers=headers)
 repos = repos_response.json()
@@ -27,15 +28,23 @@ creation_dates = []
 for repo in repos:
     total_stars += repo.get("stargazers_count", 0)
     total_forks += repo.get("forks_count", 0)
-    
-    # Fetch commits for each repository
-    commits_url = f"{base_url}/repos/{username}/{repo['name']}/commits"
-    commits_response = requests.get(commits_url, headers=headers)
-    commits = commits_response.json()
-    total_commits += len(commits)
-    
+
     # Collect creation dates for uptime calculation
     creation_dates.append(repo['created_at'])
+    
+    # Fetch all commits for each repository (with pagination)
+    commits_url = f"{base_url}/repos/{username}/{repo['name']}/commits"
+    page = 1
+    while True:
+        paginated_commits_url = f"{commits_url}?page={page}&per_page=100"
+        commits_response = requests.get(paginated_commits_url, headers=headers)
+        commits = commits_response.json()
+
+        if not commits or len(commits) == 0:
+            break  # No more commits
+
+        total_commits += len(commits)
+        page += 1
 
 # Calculate total uptime in days from the earliest repo creation date
 if creation_dates:
@@ -71,7 +80,7 @@ stats = {
     "issues": total_issues,
     "repos": len(repos),
     "gists": total_gists,
-    "uptime": total_days  # Add uptime in days
+    "uptime": total_days
 }
 
 # Copy original file to new file with 'new_' prefix
