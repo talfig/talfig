@@ -2,7 +2,7 @@ import requests
 import os
 
 # Get GitHub stats
-username = "talfig"
+username = "YourGitHubUsername"
 token = os.getenv("GITHUB_TOKEN")
 
 headers = {"Authorization": f"token {token}"}
@@ -27,19 +27,23 @@ for stat, endpoint in endpoints.items():
     response = requests.get(url, headers=headers)
     data = response.json()
 
+    # Handle different response structures
     if stat == "followers":
-        stats[stat] = data["followers"]
-    elif stat == "stars" or stat == "forks" or stat == "repos" or stat == "gists":
-        stats[stat] = data["total_count"]
+        stats[stat] = data["followers"]  # Direct access since it's a dict
+    elif stat in ["stars", "forks"]:
+        stats[stat] = data["total_count"]  # Access total_count for search results
     elif stat == "commits":
-        stats[stat] = len(data["items"])  # Count commits by the user
-    elif stat == "pull_requests" or stat == "issues":
-        stats[stat] = data["total_count"]
+        stats[stat] = len(data.get("items", []))  # Count commits (list of items)
+    elif stat in ["pull_requests", "issues"]:
+        stats[stat] = data["total_count"]  # Access total_count for search results
+    elif stat in ["repos", "gists"]:
+        stats[stat] = len(data)  # Count the number of repos or gists
 
 # Update SVG file
 with open("terminal_stats.svg", "r") as file:
     svg_content = file.read()
 
+# Replace placeholders in SVG with actual stats
 svg_content = svg_content.replace("<number of stars>", str(stats["stars"]))
 svg_content = svg_content.replace("<number of forks>", str(stats["forks"]))
 svg_content = svg_content.replace("<number of commits>", str(stats["commits"]))
