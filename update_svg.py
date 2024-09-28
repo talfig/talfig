@@ -1,4 +1,5 @@
 import requests
+import shutil
 import os
 
 # Get GitHub stats
