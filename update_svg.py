@@ -44,14 +44,14 @@ with open("terminal_stats.svg", "r") as file:
     svg_content = file.read()
 
 # Replace placeholders in SVG with actual stats
-svg_content = svg_content.replace("<number of stars>", str(stats["stars"]))
-svg_content = svg_content.replace("<number of forks>", str(stats["forks"]))
-svg_content = svg_content.replace("<number of commits>", str(stats["commits"]))
-svg_content = svg_content.replace("<number of followers>", str(stats["followers"]))
-svg_content = svg_content.replace("<number of pull requests>", str(stats["pull_requests"]))
-svg_content = svg_content.replace("<number of issues>", str(stats["issues"]))
-svg_content = svg_content.replace("<number of repos>", str(stats["repos"]))
-svg_content = svg_content.replace("<number of gists>", str(stats["gists"]))
+svg_content = svg_content.replace("[Stars]", str(stats["stars"]))
+svg_content = svg_content.replace("[Forks]", str(stats["forks"]))
+svg_content = svg_content.replace("[Commits]", str(stats["commits"]))
+svg_content = svg_content.replace("[Followers]", str(stats["followers"]))
+svg_content = svg_content.replace("[Pull Requests]", str(stats["pull_requests"]))
+svg_content = svg_content.replace("[Issues]", str(stats["issues"]))
+svg_content = svg_content.replace("[Repository]", str(stats["repos"]))
+svg_content = svg_content.replace("[Gists]", str(stats["gists"]))
 
 with open("terminal_stats.svg", "w") as file:
     file.write(svg_content)
