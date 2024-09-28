@@ -35,11 +35,7 @@ jobs:
           git add terminal_stats.svg
           if ! git diff-index --quiet HEAD --; then
             git commit -m "Update SVG with latest GitHub stats"
+            git push https://talfig:${{ secrets.MY_PAT }}@github.com/talfig/talfig.git HEAD:main
           else
             echo "No changes to commit."
-          
-      - name: Push changes
-        run: |
-          git push https://talfig:${{ secrets.MY_PAT }}@github.com/talfig/talfig.git HEAD:main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          fi
