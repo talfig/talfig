@@ -48,8 +48,13 @@ for stat, endpoint in endpoints.items():
         print(f"KeyError fetching {stat}: {e}")
         stats[stat] = 0  # Default value if key is missing
 
-# Update SVG file
-with open("terminal_stats.svg", "r") as file:
+# Copy original file to new file with 'new_' prefix
+original_file = "terminal_stats.svg"
+new_file = "new_terminal_stats.svg"
+shutil.copyfile(original_file, new_file)
+
+# Update SVG content in the new file
+with open(new_file, "r") as file:
     svg_content = file.read()
 
 # Replace placeholders in SVG with actual stats
@@ -62,5 +67,6 @@ svg_content = svg_content.replace("[Issues]", str(stats["issues"]))
 svg_content = svg_content.replace("[Repository]", str(stats["repos"]))
 svg_content = svg_content.replace("[Gists]", str(stats["gists"]))
 
-with open("terminal_stats.svg", "w") as file:
+# Write updated content to the new file
+with open(new_file, "w") as file:
     file.write(svg_content)
