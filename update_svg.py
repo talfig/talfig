@@ -10,8 +10,6 @@ token = os.getenv("GITHUB_TOKEN")
 headers = {"Authorization": f"token {token}"}
 base_url = "https://api.github.com"
 
-stats = {}
-
 # Fetch repositories to calculate stars, forks, and commits
 repos_url = f"{base_url}/users/{username}/repos"
 repos_response = requests.get(repos_url, headers=headers)
