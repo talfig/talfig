@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/talfig/talfig">
+  <a href="https://github.com/talfig">
     <img src="https://komarev.com/ghpvc/?username=talfig&color=ff6347&style=flat-square" alt="Profile views">
   </a>
 </p>
