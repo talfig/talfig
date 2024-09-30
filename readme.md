@@ -76,7 +76,7 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" />
-        <br>HTML
+        <br>HTML5
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=go" alt="icon" width="40" height="40" />
