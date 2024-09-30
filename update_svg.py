@@ -32,7 +32,7 @@ for repo in repos:
     creation_dates.append(repo['created_at'])
     
     # Fetch all commits for each repository (with pagination)
-    commits_url = f"{base_url}/repos/{username}/{repo['name']}/commits"
+    commits_url = f"{base_url}/repos/{username}/{repo['name']}/commits?author={username}"
     page = 1
     while True:
         paginated_commits_url = f"{commits_url}?page={page}&per_page=100"
