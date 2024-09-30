@@ -35,7 +35,7 @@ for repo in repos:
     commits_url = f"{base_url}/repos/{username}/{repo['name']}/commits?author={username}"
     page = 1
     while True:
-        paginated_commits_url = f"{commits_url}?page={page}&per_page=100"
+        paginated_commits_url = f"{commits_url}&page={page}&per_page=100"
         commits_response = requests.get(paginated_commits_url, headers=headers)
         commits = commits_response.json()
 
