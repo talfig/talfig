@@ -75,8 +75,8 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
         <br>C
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" />
-        <br>HTML5
+          <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="40" height="40" />
+        <br>Bash
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=go" alt="icon" width="40" height="40" />
@@ -97,8 +97,8 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
         <br>PyTorch
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="40" height="40" />
-        <br>VsCode
+          <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="40" height="40" />
+        <br>Docker
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=windows" alt="icon" width="40" height="40" />
@@ -109,8 +109,8 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
         <br>Linux
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=ubuntu" alt="icon" width="40" height="40" />
-        <br>Ubuntu
+          <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="40" height="40" />
+        <br>VsCode
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="40" height="40" />
