@@ -132,7 +132,6 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
 | Title | Description | Stars | Language |
 |-------|-------------|-------|----------|
 | [Sign-Language-Recognition](https://github.com/talfig/Sign-Language) | Sign language recognition system using CNN architecture, accurately translating images into defined sign language. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Sign-Language?style=social) | ![Python](https://img.shields.io/badge/-Python-blue) |
-| [Stellar-Classification](https://github.com/talfig/Stellar-Classification) | A project that examines different ML methods to identify a stellar from a given image. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Stellar-Classification?style=social) | ![Python](https://img.shields.io/badge/-Python-blue) |
 | [Assembler](https://github.com/talfig/Assembler) | It's a comprehensive assembler program for a specific assembly language, written in C. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Assembler?style=social) | ![C](https://img.shields.io/badge/-C-gray) |
 
 <details>
