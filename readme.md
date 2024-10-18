@@ -33,10 +33,10 @@
 I'm an enthusiast developer with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
 
 # 🎓 Education
-**The Open University**  
-**B.Sc. Computer Science**  
-2023-2025 (Graduation)
-2nd-year student with a GPA of 4.0.
+- **The Open University**  
+  **B.Sc. Computer Science**  
+  2023-2025 (Graduation)
+  2nd-year student with a GPA of 4.0.
 
 # 🛠️ Skills and Abilities
 <div style="display: flex; justify-content: center;">
