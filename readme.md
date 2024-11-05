@@ -36,7 +36,7 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
 - **The Open University**  
   **B.Sc. Computer Science**  
   2023-2025 (Graduation)
-  2nd-year student with a GPA of 4.0.
+  At the end of 2nd year with a GPA of 99
 
 # 🛠️ Skills and Abilities
 <div style="display: flex; justify-content: center;">
