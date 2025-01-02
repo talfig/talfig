@@ -131,8 +131,8 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
 # 🚀 Projects
 | Title | Description | Stars | Language |
 |-------|-------------|-------|----------|
-| [Sign-Language-Recognition](https://github.com/talfig/Sign-Language-Recognition) | Sign language recognition system using MobileNetV2 architecture, accurately translating images into defined sign language. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Sign-Language-Recognition?style=social) | ![Python](https://img.shields.io/badge/-Python-blue) |
-| [Assembler](https://github.com/talfig/Assembler) | Comprehensive assembler program for a specific assembly language, implementing efficient code translation, error handling, and file management in C. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Assembler?style=social) | ![C](https://img.shields.io/badge/-C-gray) |
+| [Sign-Language-Recognition](https://github.com/talfig/Sign-Language-Recognition) | Sign language recognition system using MobileNetV2 architecture enhanced with attention mechanisms, and MediaPipe, accurately translating video inputs and live camera feeds into defined sign language with OpenCV. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Sign-Language-Recognition?style=social) | ![Python](https://img.shields.io/badge/-Python-blue) |
+| [Assembler](https://github.com/talfig/Assembler) | A custom assembler with macro support and a two-pass assembly process, implementing efficient code translation, error handling, and file management in C. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Assembler?style=social) | ![C](https://img.shields.io/badge/-C-gray) |
 
 <details>
   <summary>📊 GitHub Stats</summary>
