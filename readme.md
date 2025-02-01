@@ -51,8 +51,16 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
         <br>C
       </td>
       <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="Java" />
-        <br>Java 
+        <br>Java
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=go" alt="icon" width="40" height="40" />
+        <br>Go
       </td>
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
@@ -65,10 +73,6 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="40" height="40" />
         <br>Bash
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="icon" width="40" height="40" />
-        <br>Redis
       </td>
       <td align="center" width="96">
           <img src="https://vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="icon" width="40" height="40" />
