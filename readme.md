@@ -40,7 +40,7 @@ I'm an enthusiast developer with a passion for AI and machine learning, currentl
 
 # 🛠️ Skills and Abilities
 <div style="display: flex; justify-content: center;">
-  <table style="width: 100%; max-width: 1000px; border-collapse: collapse; table-layout: fixed;">
+  <table style="width: 100%; max-width: 100px; border-collapse: collapse; table-layout: fixed;">
     <tr>
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
