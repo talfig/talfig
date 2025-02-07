@@ -30,7 +30,7 @@
 <img src="https://github.com/talfig/talfig/blob/main/line-neon-thick.gif" width="100%"> 
 
 # 👋 About Me
-I'm an enthusiast developer with a passion for AI and machine learning, currently seeking opportunities to dive into development and research. I’m eager to apply and expand my current knowledge, acquire new skills, and contribute to innovative projects.
+I am a developer primarily experienced in Python, C and Java, passionate about AI and tech innovation. Skilled in solving real-world problems through hands-on projects, leveraging a deep understanding of algorithms and programming techniques, and focused on contributing to impactful products that drive meaningful change.
 
 # 🎓 Education
 - **The Open University**  
