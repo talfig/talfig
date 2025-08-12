@@ -36,7 +36,7 @@ I am a developer primarily experienced in Python, C and Java, passionate about A
 - **The Open University**  
   **B.Sc. Computer Science**  
   2023-2025 (Graduation)  
-  3rd year with a GPA of 98
+  3rd year with a GPA of 97
 
 # 🛠️ Skills and Abilities
 <div style="display: flex; justify-content: center;">
