@@ -30,7 +30,7 @@
 <img src="https://github.com/talfig/talfig/blob/main/line-neon-thick.gif" width="100%"> 
 
 # 👋 About Me
-I am a developer primarily experienced in Python, C and Java, passionate about AI and tech innovation. Skilled in solving real-world problems through hands-on projects, leveraging a deep understanding of algorithms and programming techniques, and focused on contributing to impactful products that drive meaningful change.
+I am a researcher and developer primarily experienced in Python, JavaScript, C and Java. Passionate about AI, Cyber Security and tech innovation. Deep understanding of algorithms and programming techniques. Focused on contributing to impactful products that drive meaningful change.
 
 # 🎓 Education
 - **The Open University**  
