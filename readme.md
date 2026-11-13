@@ -94,7 +94,7 @@ I am a researcher and developer primarily experienced in Python, JavaScript, C/C
 | Title | Description | Stars | Language |
 |-------|-------------|-------|----------|
 | [Sign-Language-Recognition](https://github.com/talfig/Sign-Language-Recognition) | Sign language recognition system using MobileNetV2 architecture enhanced with attention mechanisms, and MediaPipe, accurately translating video inputs and live camera feeds into defined sign language with OpenCV. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Sign-Language-Recognition?style=social) | ![Python](https://img.shields.io/badge/-Python-blue) |
-| [Assembler](https://github.com/talfig/Assembler) | A custom assembler with macro support and a two-pass assembly process, implementing efficient code translation, error handling, and file management in C. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Assembler?style=social) | ![C](https://img.shields.io/badge/-C-gray) |
+| [Assembler](https://github.com/talfig/Assembler) | A custom assembler with macro support and a two-pass assembly process, implementing efficient code translation. | ![GitHub stars](https://img.shields.io/github/stars/talfig/Assembler?style=social) | ![C](https://img.shields.io/badge/-C-gray) |
 
 <details>
   <summary>📊 GitHub Stats</summary>
